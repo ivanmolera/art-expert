@@ -1,6 +1,6 @@
 # Art Expert - Artist Identification CNN
 
-Convolutional Neural Network implementation for identifying the artist of a given piece of art.
+Training a Convolutional Neural Network to identify the artist of a given piece of art.
 
 ## Dataset
 
